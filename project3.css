@@ -1,0 +1,38 @@
+video{
+    width: 100%;
+}
+hr{
+    color: yellow;
+    size:5px;
+
+}
+a
+{
+    text-decoration: none;
+}
+body {
+    font-family: Arial, sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 0 auto;
+}
+
+td, th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #008080;
+    color: white;
+}
+
+.order-button {
+    background-color: #008080;
+    color: white;
+    padding: 5px 10px;
+}
